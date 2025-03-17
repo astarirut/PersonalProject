@@ -1,3 +1,3 @@
 # PersonalProject
 
-![Watch Demo](demo/record.mp4)
+![Watch Demo](PersonalProject/media/record.mp4)
